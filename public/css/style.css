@@ -1,0 +1,20 @@
+
+html {
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    background-color: #b3b3b5;
+    margin-top: 75px;
+    background-image: url("https://www.transparenttextures.com/patterns/blizzard.png");
+}
+
+img {
+    max-width: 50%;
+}
+
+.header-button {
+    margin-left: auto;
+}
+
+
